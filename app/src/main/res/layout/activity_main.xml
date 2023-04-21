@@ -70,7 +70,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="30sp"
-        android:text="U+1F600"
+        android:text="Hobby"
         android:textColor="@color/teal_700"
         android:textAlignment="center"/>
 
@@ -81,9 +81,5 @@
         android:layout_margin="20dp"
         android:layout_gravity="center"
         android:text="Click here"/>
-
-
-
-
 
 </LinearLayout>

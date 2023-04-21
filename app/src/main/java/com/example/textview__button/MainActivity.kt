@@ -38,13 +38,19 @@ class MainActivity : AppCompatActivity() {
 
         btn.setOnClickListener {
             txv.text = "Hi \uD83D\uDC4B, I'm Md.Sakender Saikot"
-
-
         }
 
+        btn2.setOnClickListener {
+            txv2.text = "Baneswar,Rajshahi"
+        }
 
+        btn3.setOnClickListener {
+            txv3.text  = "Varendra Universuty \nDept of CSE"
+        }
 
-
+        btn4.setOnClickListener {
+            txv4.text = "Sleeping"
+        }
 
     }
 }
